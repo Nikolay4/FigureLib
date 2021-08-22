@@ -1,0 +1,8 @@
+C:\Users\Nikol\source\repos\FigureLib\FigureLib\bin\Debug\netcoreapp3.1\FigureLib.deps.json
+C:\Users\Nikol\source\repos\FigureLib\FigureLib\bin\Debug\netcoreapp3.1\FigureLib.dll
+C:\Users\Nikol\source\repos\FigureLib\FigureLib\bin\Debug\netcoreapp3.1\FigureLib.pdb
+C:\Users\Nikol\source\repos\FigureLib\FigureLib\obj\Debug\netcoreapp3.1\FigureLib.AssemblyInfoInputs.cache
+C:\Users\Nikol\source\repos\FigureLib\FigureLib\obj\Debug\netcoreapp3.1\FigureLib.AssemblyInfo.cs
+C:\Users\Nikol\source\repos\FigureLib\FigureLib\obj\Debug\netcoreapp3.1\FigureLib.csproj.CoreCompileInputs.cache
+C:\Users\Nikol\source\repos\FigureLib\FigureLib\obj\Debug\netcoreapp3.1\FigureLib.dll
+C:\Users\Nikol\source\repos\FigureLib\FigureLib\obj\Debug\netcoreapp3.1\FigureLib.pdb

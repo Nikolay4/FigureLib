@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FigureUse/1.0.0": {
+        "dependencies": {
+          "FigureLib": "1.0.0"
+        },
+        "runtime": {
+          "FigureUse.dll": {}
+        }
+      },
+      "FigureLib/1.0.0": {
+        "runtime": {
+          "FigureLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FigureUse/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FigureLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
